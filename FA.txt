@@ -1,7 +1,3 @@
 Bonjour Yassine
-<<<<<<< HEAD
-
-Conflit Anzo
-=======
 Au revoir Anzo
->>>>>>> 536af1ff78cd59653f06f202c714a679c98f3585
+Conflit anzo
